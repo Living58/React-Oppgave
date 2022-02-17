@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+  font-size: 20px;
+  padding: 10rem;
+  justify-content: center;
+  color: rgb(185, 71, 170);
+}
+
+button{
+  margin: 2rem;
+  background-color: pink;
+  border-color: rgb(115, 122, 185);
+}
+
+input{
+  margin: 2rem;
+}
+
